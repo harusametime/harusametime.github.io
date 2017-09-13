@@ -7,7 +7,6 @@ author_profile: true
 
 Journal Paper
 ------------
-
 1. H.M. Tuan, M. Samejima, N. Komoda, "Power and Performance estimation for Fine-grained Server Power Capping via Controlling Heterogeneous Applications", ACM Trans. on Management Information Systems (accepted)
 1. M. Otsuki, M. Akiyoshi, M. Samejima, "Identification Method of Improvements in User Operations on Project Manager Skill-Up Simulator", IEEE Access (accepted)
 1. M. Mori, R. Kobayashi, M. Samejima, N. Komoda, "Risk-Cost Optimization for Procurement Planning in Multi-tier Supply Chain by Pareto Local Search with Relaxed Acceptance Criterion", European Journal of Operational Research (accepted)
