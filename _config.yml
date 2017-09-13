@@ -78,11 +78,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Masaki Samejima"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Assistant Professor at Osaka University. Applied Machine Learning and Operations Research for Computing Systems."
   location         : "Osaka, Japan"
-  employer         : "Osaka University"
+  employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=YTebW5kAAAAJ"
   email            :
   uri              :
