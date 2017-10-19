@@ -1,4 +1,3 @@
-
 ---
 layout: archive_pub
 title: "Bio"
