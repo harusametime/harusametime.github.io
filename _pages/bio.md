@@ -5,12 +5,14 @@ permalink: /bio/
 author_profile: true
 ---
 
-*Education
 
-Bachelor of Engineering from Osaka University in March 2005
-Master of Information Science from Osaka University in March 2007
-Ph. D. of Information Science from Osaka University in September 2008
-Work Experience
+
+### Education
+* Bachelor of Engineering from Osaka University in March 2005
+* Master of Information Science from Osaka University in March 2007
+* Ph. D. of Information Science from Osaka University in September 2008
+
+### Work Experience
 
 Systems Development Laboratory, Hitachi, Ltd. (April 2007 - May 2009) 
 engaged in researches on knowledge sharing for project managements.
