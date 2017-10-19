@@ -1,6 +1,6 @@
 ---
 layout: archive_pub
-title: "Bio"
+title: "About me"
 permalink: /bio/
 author_profile: true
 ---
