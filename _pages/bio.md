@@ -5,7 +5,7 @@ permalink: /bio/
 author_profile: true
 ---
 
-#Education
+*Education
 
 Bachelor of Engineering from Osaka University in March 2005
 Master of Information Science from Osaka University in March 2007
