@@ -7,7 +7,6 @@
    ========================================================================== */
 
 .sidebar {
-   width: 500px;
   -webkit-transform: translate3d(0, 0 , 0);
           transform: translate3d(0, 0 , 0);
 
@@ -46,7 +45,7 @@
   }
 
   img {
-    width: 200%;
+    width: 100%;
   }
 }
 
@@ -73,8 +72,8 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 500px;
-  height: 500px;
+  width: 36px;
+  height: 36px;
  
   @include breakpoint($large) {
     display: block;
@@ -84,7 +83,7 @@
 
   img {
     border-radius: 50%;
-     width:150%;
+    width:150%;
  
     @include breakpoint($large) {
       padding: 5px;
