@@ -19,7 +19,7 @@ Applied Machine Learning and Operations Research
 **Works done before joining AWSJ**
 * Focasting and anomaly detection in time-series data
 * Reinforcement learning for combinatorial optimization
-* Computer vision, `e.g.`Semantic Segmentation
+* Computer vision, *e.g.* Semantic Segmentation
 
 Contact
 --------
