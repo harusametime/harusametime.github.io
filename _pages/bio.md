@@ -15,7 +15,7 @@ author_profile: true
 ## Work Experience
 * AI Solutions Architect, Amazon Web Services Japan (April 2018 - )
 * Researcher, Systems Development Laboratory, Hitachi, Ltd. (April 2007 - May 2009) engaged in researches on knowledge sharing for project managements.  
-* Assistant Professor, Dept. of Multimedia Engineering, Graduate School of Information Science and Technologies, Osaka University (June 2009 - May, 2018)  
+* Assistant Professor, Dept. of Multimedia Engineering, Graduate School of Information Science and Technologies, Osaka University (June 2009 - March, 2018)  
 * Visiting Scholar, International Institute for Applied Systems Analysis, Austria (July - October, 2010)  
 * Visiting Researcher, University of Freiburg, Germany (April 2014 - March 2015)  
 
