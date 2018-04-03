@@ -80,8 +80,8 @@ analytics:
 author:
   name             : "Masaki Samejima"
   avatar           : "profile.png"
-  bio              : "Assistant Professor at Osaka University. Applied Machine Learning and Operations Research for Computing Systems."
-  location         : "Osaka, Japan"
+  bio              : "AI Solutions Architect. Amazon Web Services Japan. Applied Machine Learning and Operations Research."
+  location         : "Tokyo, Japan"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=YTebW5kAAAAJ"
   email            :
@@ -98,7 +98,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
