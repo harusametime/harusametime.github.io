@@ -12,7 +12,7 @@ Current Position
 -----------------
 AI Solutions Architect, Amazon Web Service Japan.
 
-Research Topic
+Work
 ---------------
 Applied Machine Learning and Operations Research
 
