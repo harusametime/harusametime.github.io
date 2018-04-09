@@ -1,6 +1,6 @@
 ---
 title: 'WindowsへのPySPQRのインストール'
-date: 201７-10-06
+date: 2017-10-06
 permalink: /posts/2017/10/install_pyspqr/
 tags:
   - Optimization
