@@ -74,3 +74,5 @@ PySPQRのWindows 10へのインストール方法について説明します。
   - suitesparse-metis-for-windowsのlib64\lapack_blas_windowsの中のdllを全部sparseqrのフォルダにぶち込む．
   
 - これでpythonを実行すればうまく行きました．お疲れさまでした．
+
+- PySPQRの[issue](https://github.com/yig/PySPQR/issues/6)に回答しました.
