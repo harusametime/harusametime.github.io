@@ -6,8 +6,9 @@ tags:
   - Optimization
   - Python
 ---
+PySPQRのWindows 10へのインストール方法について説明します。
 
-## PySPQRをインストールしたい
+##　なぜPySPQRか
 
 - ScipyにはSparse matrix向けのQR分解がありません.
 - Dense matrix向けはありますが，todense()するとメモリで死んでしまいます．
