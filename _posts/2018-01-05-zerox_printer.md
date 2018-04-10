@@ -6,10 +6,10 @@ tags:
   - Ubuntu
 ---
 
-This is how to install Fujixerox C5000-d printer in ubuntu 16.04. Unfotunately, the official printer driver is too old to be compatibe with latest ubuntu.
+This is how to install Fujixerox C5000-d printer in ubuntu 16.04. Unfotunately, the official printer driver is too old to be compatibe with the latest ubuntu.
 
 ## Step
-1. Download "fxlinuxprint_1.1.0+ds.orig.tar.xz" in [Launchpad](https://launchpad.net/ubuntu/+source/fxlinuxprint/1.1.0+ds-2
+1. Download "fxlinuxprint_1.1.0+ds.orig.tar.xz" from [Launchpad](https://launchpad.net/ubuntu/+source/fxlinuxprint/1.1.0+ds-2
 )
 2. Extract the tar.xz file.
 ```
