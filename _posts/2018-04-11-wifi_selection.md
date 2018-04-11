@@ -1,6 +1,6 @@
 ---
 title: '自宅でのwifiについて'
-date: 2018-04-09
+date: 2018-04-11
 permalink: /posts/2018/04/wifi_selection/
 tags:
   - misc
