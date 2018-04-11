@@ -16,7 +16,7 @@ u-mobileとFUJI wifiを使ってみた感想です．
 
 ## プランと価格
 - u-mobile
-  - LTE使い放題プラン: 2480円/月
+  - LTE使い放題プラン: 2480円/月
 - Fuji Wifi
   - 4G/LTEいつも快適プラン: 6000円/月
 
