@@ -2,8 +2,8 @@
 title: '自宅でのwifiについて'
 date: 2018-04-11
 permalink: /posts/2018/04/wifi_selection/
-tags4
-  - misc
+tags:
+  - misc
 ---
 u-mobileとFUJI wifiを使ってみた感想です．
 
