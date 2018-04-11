@@ -10,7 +10,7 @@ redirect_from:
 
 Current Position
 -----------------
-AI Solutions Architect, Amazon Web Service Japan.
+AI Solutions Architect, Amazon Web Services Japan.
 
 Work
 ---------------
