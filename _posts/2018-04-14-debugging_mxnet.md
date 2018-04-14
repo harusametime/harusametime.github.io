@@ -6,7 +6,7 @@ tags:
   - github
   - Python
 ---
-What should we do after we debug codes in MxNet
+What should we do for debugging codes in MxNet
 
 ## Debugging after you find a bug
 - Fork the MxNet reposiotry, and git clone the repository into your PC.
