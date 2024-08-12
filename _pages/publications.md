@@ -12,9 +12,9 @@ Journal Paper
 1. H. Santo, M. Samejima, Y. Matsushita, "Numerical shape-from-shading revisited", IPSJ Transactions on Computer Vision and Applications,Vol.10, pp. 1-12 (2018)
 1. 佐藤 直樹, 鮫島 正樹, "情報セキュリティ監査支援のためのベイズ推定を用いたリスク用語提示方式", 電気学会C部門論文誌、Vol.138, No.7, pp.870-876 (2018) <br>
 (Translated Paper)  N. Satoh, M. Samejima, “Risk words suggestion for information security audit by Bayesian inference”, Electronics and Communications in Japan, Vol.102, No.1, pp.42-48 (2019.1)
-1. H.M. Tuan, M. Samejima, N. Komoda, "Power and Performance estimation for Fine-grained Server Power Capping via Controlling Heterogeneous Applications", ACM Trans. on Management Information Systems (accepted)
-1. M. Otsuki, M. Akiyoshi, M. Samejima, "Identification Method of Improvements in User Operations on Project Manager Skill-Up Simulator", IEEE Access (accepted)
-1. M. Mori, R. Kobayashi, M. Samejima, N. Komoda, "Risk-Cost Optimization for Procurement Planning in Multi-tier Supply Chain by Pareto Local Search with Relaxed Acceptance Criterion", European Journal of Operational Research (accepted)
+1. H.M. Tuan, M. Samejima, N. Komoda, "Power and Performance estimation for Fine-grained Server Power Capping via Controlling Heterogeneous Applications", ACM Trans. on Management Information Systems (TMIS), Vol.8, No.4, pp.1-19 (2017.8)
+1. M. Otsuki, M. Akiyoshi, M. Samejima, "Identification Method of Improvements in User Operations on Project Manager Skill-Up Simulator", IEEE Access, Vol.5, pp.5811-5818 (2017.4)
+1. M. Mori, R. Kobayashi, M. Samejima, N. Komoda, "Risk-Cost Optimization for Procurement Planning in Multi-tier Supply Chain by Pareto Local Search with Relaxed Acceptance Criterion", European Journal of Operational Research, Vol.261, No.1, pp.88-96 (2017)
 1. M. Samejima, D. Hisakane, N. Komoda, “Automatic annotation method on learners’ opinions in case method discussion”, Interactive Technology and Smart Education, Vol.12, No.2, pp.90-99 (2015.6)
 1. 久兼大知, 大月みなみ, 鮫島正樹, “学習者回答判別に対する信頼度分類を用いた事例研修のための助言ルール選択方式”, 電気学会C部門論文誌, Vol.135, No.6, 594-601 (2015.6)
 1. M. Samejima, R. Sasaki, “Chance-constrained Programming Method of IT Risk Countermeasures for Social Consensus Making”, IEEE Trans. on Systems, Man, and Cybernetics: Systems, Vol.45, No.5, pp.725-733 (2015.5)
