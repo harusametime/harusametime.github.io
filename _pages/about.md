@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 
-I am currently working as a Solution Engineer at DataStax Japan, where I focus on proposing generative AI solutions such as Retrieval-Augmented Generation (RAG) using open-source tools like LangChain, centered around Astra DB, a high-speed and scalable cloud database.
+I am currently working as a Solution Engineer at DataStax Japan, where I focus on proposing generative AI solutions such as Retrieval-Augmented Generation (RAG) using open-source tools like LangChain, on top of Astra DB, a high-speed and scalable cloud database.
 
 From 2018 to 2024, I served as an AI/ML Solutions Architect at Amazon Web Services Japan. As a specialist in AWS's AI/ML services, I provided technical support for machine learning platforms, recommendation systems, time series forecasting systems, and generative AI systems. The primary services I worked with included Amazon SageMaker, Amazon Personalize, Amazon Forecast, and Amazon Bedrock.
 
