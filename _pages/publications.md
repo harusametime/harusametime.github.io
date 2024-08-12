@@ -7,6 +7,11 @@ author_profile: true
 
 Journal Paper
 ------------
+1. H. Santo, M. Samejima, Y. Sugano, B. Shi, Y. Matsushita, "Deep photometric stereo networks for determining surface normal and reflectances", IEEE Transactions on Pattern Analysis and Machine Intelligence, Vol.44, No,1, pp.114-128 (2020)
+1. J. Korpela, H. Suzuki, S. Matsumoto, Y Mizutani, M. Samejima, T. Maekawa, J. Nakai, K. Yoda, "Machine learning enables improved runtime and precision for bio-loggers on seabirds", Communications biology, Vol.3, No.1, p.633 (2020)
+1. H. Santo, M. Samejima, Y. Matsushita, "Numerical shape-from-shading revisited", IPSJ Transactions on Computer Vision and Applications,Vol.10, pp. 1-12 (2018)
+1. 佐藤 直樹, 鮫島 正樹, "情報セキュリティ監査支援のためのベイズ推定を用いたリスク用語提示方式", 電気学会C部門論文誌、Vol.138, No.7, pp.870-876 (2018) <br>
+(Translated Paper)  N. Satoh, M. Samejima, “Risk words suggestion for information security audit by Bayesian inference”, Electronics and Communications in Japan, Vol.102, No.1, pp.42-48 (2019.1)
 1. H.M. Tuan, M. Samejima, N. Komoda, "Power and Performance estimation for Fine-grained Server Power Capping via Controlling Heterogeneous Applications", ACM Trans. on Management Information Systems (accepted)
 1. M. Otsuki, M. Akiyoshi, M. Samejima, "Identification Method of Improvements in User Operations on Project Manager Skill-Up Simulator", IEEE Access (accepted)
 1. M. Mori, R. Kobayashi, M. Samejima, N. Komoda, "Risk-Cost Optimization for Procurement Planning in Multi-tier Supply Chain by Pareto Local Search with Relaxed Acceptance Criterion", European Journal of Operational Research (accepted)
@@ -40,6 +45,7 @@ Journal Paper
 
 International Conference Paper
 ------------
+1. H. Santo, M. Waechter, M. Samejima, Y. Sugano, Y. Matsushita, "Light structure from pin motion: Simple and accurate point light calibration for physics-based modeling", The European Conference on Computer Vision (ECCV), pp.3-18 (2018)
 1. H. Santo, M. Samejima, Y. Sugano, B. Shi, Y. Matsushita, "Deep photometric stereo network", International Workshop on Physics Based Vision meets Deep Learning (PBDL) in Conjunction with IEEE International Conference on Computer Vision (ICCV), Venice, Italy (2017) [[paper](http://www.google.com/url?q=http%3A%2F%2Fopenaccess.thecvf.com%2Fcontent_ICCV_2017_workshops%2Fw9%2Fhtml%2FSanto_Deep_Photometric_Stereo_ICCV_2017_paper.html&sa=D&sntz=1&usg=AFQjCNFALmMsrIVxs1neLeVzWPgA7L0A7Q)] [[code](https://github.com/hiroaki-santo/deep-photometric-stereo-network)]
 1. R. Kuga, A. Kanezaki, M. Samejima, Y. Sugano, Y. Matsushita, "Multi-task Learning Using Multi-modal Encoder-Decoder Networks with Shared Skip Connections", IEEE/ISPRS 4th Joint Workshop on Multi-Sensor Fusion for Dynamic Scene Understanding in conjunction with IEEE International Conference on Computer Vision (ICCV), Venice, Italy (2017)
 1. M. Samejima, Y. Matsushita, "Fast General Norm Approximation via Iteratively Reweighted Least Squares", in Proc. of ACCV 2016 International Workshops on e-Heritage, pp.207-221 (2016)
