@@ -9,33 +9,32 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* Ph. D. of Information Science from Osaka University in September 2008
+* Master of Information Science from Osaka University in March 2007
+* Bachelor of Engineering from Osaka University in March 2005
 
-Work experience
+Work Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Solution Engineer, DataStax Japan (July 2024 - )
+* Machine Learning Solutions Architect, Amazon Web Services Japan (April 2018 - July 2024)
+* Assistant Professor, Dept. of Multimedia Engineering, Graduate School of Information Science and Technologies, Osaka University (June 2009 - March, 2018) 
+* Visiting Researcher, University of Freiburg, Germany (April 2014 - March 2015)  
+* Visiting Scholar, International Institute for Applied Systems Analysis, Austria (July - October, 2010)  
+* Researcher, Systems Development Laboratory, Hitachi, Ltd. (April 2007 - May 2009) engaged in researches on knowledge sharing for project managements.  
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
-Skills
+Teaching Experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Guest Lecturer, Graduate School of Information Science and Technology, Osaka University (2019 -)
+  * Exercises on Multimedia Engineering II - Machine Learning on Cloud
 
+* Guest Lecturer, Kanagawa University (2023-)
+  * Information Literacy Seminar - Cloud Foundations
+
+<!-- 
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -56,4 +55,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
