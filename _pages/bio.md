@@ -1,10 +1,9 @@
 ---
 layout: archive_pub
-title: "Bio"
+title: "CV"
 permalink: /bio/
 author_profile: true
 ---
-
 
 
 ## Education
