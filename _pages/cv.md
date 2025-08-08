@@ -11,13 +11,13 @@ redirect_from:
 
 
 Education
-======
+------
 * Ph. D. of Information Science from Osaka University in September 2008
 * Master of Information Science from Osaka University in March 2007
 * Bachelor of Engineering from Osaka University in March 2005
 
 Work Experience
-======
+------
 * Tehnical Sales, IBM Japan (August 2025 - )
 * Solution Engineer, DataStax Japan (July 2024 - July 2025, acquired by IBM) 
 * Machine Learning Solutions Architect, Amazon Web Services Japan (April 2018 - July 2024)
