@@ -24,7 +24,7 @@ Work Experience
 * Assistant Professor, Dept. of Multimedia Engineering, Graduate School of Information Science and Technologies, Osaka University (June 2009 - March, 2018) 
 * Visiting Researcher, University of Freiburg, Germany (April 2014 - March 2015)  
 * Visiting Scholar, International Institute for Applied Systems Analysis, Austria (July - October, 2010)  
-* Researcher, Systems Development Laboratory, Hitachi, Ltd. (April 2007 - May 2009) engaged in researches on knowledge sharing for project managements.  
+* Researcher, Systems Development Laboratory, Hitachi, Ltd. (April 2007 - May 2009) 
 
 <!-- 
 Teaching Experience
