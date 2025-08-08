@@ -41,5 +41,5 @@ Applied Machine Learning and Operations Research
 
 Contact
 --------
-E-mail: masaki.samejima_at_datastax.com
+E-mail: masaki.samejima1_at_ibm.com
 (Replace `_at_` with `@`）
