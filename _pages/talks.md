@@ -43,4 +43,4 @@ author_profile: true
 
 2018年
 ----
-AWS で構築するコンピュータビジョンアプリケーション [[web](https://www.info-event.jp/aws-devday2018/schedule/detail/session_4-021-2.html)]
+AWS DevDay 2018: AWS で構築するコンピュータビジョンアプリケーション [[web](https://www.info-event.jp/aws-devday2018/schedule/detail/session_4-021-2.html)]
