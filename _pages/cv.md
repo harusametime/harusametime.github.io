@@ -18,7 +18,7 @@ Education
 
 Work Experience
 ------
-* Tehnical Sales, IBM Japan (August 2025 - )
+* Technical Sales, IBM Japan (August 2025 - )
 * Solution Engineer, DataStax Japan (July 2024 - July 2025, acquired by IBM) 
 * Machine Learning Solutions Architect, Amazon Web Services Japan (April 2018 - July 2024)
 * Assistant Professor, Dept. of Multimedia Engineering, Graduate School of Information Science and Technologies, Osaka University (June 2009 - March, 2018) 
