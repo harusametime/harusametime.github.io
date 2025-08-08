@@ -20,7 +20,7 @@ Work Experience
 ------
 * Technical Sales, IBM Japan (August 2025 - )
 * Solution Engineer, DataStax Japan (July 2024 - July 2025, acquired by IBM) 
-* Machine Learning Solutions Architect, Amazon Web Services Japan (April 2018 - July 2024)
+* Machine Learning Solutions Architect  (April 2018 - October 2019), Manager of Machine Learning Solutions Architect (November 2019 - July 2024), Amazon Web Services Japan
 * Assistant Professor, Dept. of Multimedia Engineering, Graduate School of Information Science and Technologies, Osaka University (June 2009 - March, 2018) 
 * Visiting Researcher, University of Freiburg, Germany (April 2014 - March 2015)  
 * Visiting Scholar, International Institute for Applied Systems Analysis, Austria (July - October, 2010)  
