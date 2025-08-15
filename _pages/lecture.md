@@ -13,7 +13,7 @@ author_profile: true
 
 神奈川大学情報学部
 ----
-- 情報リテラシー演習「クラウドコンピューティングの基礎」(2023年-) [講義ページ](https://github.com/harusametime/KanagawaU-Cloud-Seminar/blob/main/exercise.md)
+- 情報リテラシー演習「クラウドコンピューティングの基礎」(2023年-) [[講義ページ](https://github.com/harusametime/KanagawaU-Cloud-Seminar/blob/main/exercise.md)]
 - 実践的データサイエンス演習「生成AIと企業情報システム」(2025年-)
 
 滋賀大学データサイエンス学部
@@ -22,5 +22,5 @@ author_profile: true
 
 東北大学 人工知能エレクトロニクス卓越大学院プログラム
 ----
-[機械学習を利用した画像認識](https://www.aie.tohoku.ac.jp/data/news/20240726_koushukai.pdf)  (2024年)
+機械学習を利用した画像認識 (2024年)[[web]((https://www.aie.tohoku.ac.jp/data/news/20240726_koushukai.pdf))]
 
