@@ -11,6 +11,7 @@ author_profile: true
 
 2025年
 ----
+- NVIDIA AI Day (登壇予定)
 - dbtech showcase 2025: そのデータ、活かせていますか？非構造化データ活用の最前線とデータ基盤戦略 [[web](https://www.db-tech-showcase.com/2025/schedule/)]
 - エムニ様 クローズド環境における製造業向け生成AIの最前線 [[web](https://www.emuniinc.jp/news/detail/674rohge9)]
   
