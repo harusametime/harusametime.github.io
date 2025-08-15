@@ -22,5 +22,5 @@ author_profile: true
 
 東北大学 人工知能エレクトロニクス卓越大学院プログラム
 ----
-機械学習を利用した画像認識 (2024年)[[web]((https://www.aie.tohoku.ac.jp/data/news/20240726_koushukai.pdf))]
+機械学習を利用した画像認識 (2024年)[[web](https://www.aie.tohoku.ac.jp/data/news/20240726_koushukai.pdf)]
 
